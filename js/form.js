@@ -20,8 +20,7 @@ botonAdicionar.addEventListener("click", (event) => {
    if(errores.length > 0){
      exhibirMensajesErrores(errores);
      return;
-    
-     
+      
   }
 
 
