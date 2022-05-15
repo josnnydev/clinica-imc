@@ -11,8 +11,6 @@
 
 
 
-  
-
 
      // imc = peso / altura * altura
 
