@@ -1,0 +1,53 @@
+ .cabecera{
+     background-color: gray;
+     text-align: center;
+
+ }
+
+ body{
+    background: radial-gradient(rgb(63, 63, 66) 90%,red 10%);
+ }
+
+#form{
+    display: block;
+    background: url(/texture-simple-dark-simple-background-wallpaper-preview.jpg);
+    width: 940px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+   
+     
+}
+
+.input{
+    display: block;
+    height: 34px;
+    margin: 8px 400px;
+    border: none;
+    opacity: 30%;
+    
+     
+}
+
+.boton{
+    cursor: pointer;
+    border: none;
+    font-size: 1.5em;
+    font-weight: bold;
+    opacity: 50%;
+    background-color: red;
+    
+
+}
+
+.color{
+    background-color: aqua;
+}
+
+ 
+
+
+ 
+
+ 
